@@ -188,9 +188,6 @@ Python | pandas | NumPy | Matplotlib | Seaborn | statsmodels | scikit-learn | Sc
 
 ## Author
 
-**Your Name**
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+**Nazmin Ansari**
+[LinkedIn](https://www.linkedin.com/in/nazmin-ansari-69357831a/))
 
-## License
-
-Add a license of your choice (for example, MIT).
